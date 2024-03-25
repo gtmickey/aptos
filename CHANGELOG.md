@@ -19,3 +19,7 @@
 ## 0.0.5
 
 * Fix bcs simulate
+* 
+## 0.0.6
+
+* Update pointycastle to ^3.7.4
